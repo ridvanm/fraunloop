@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+
+.white{
+    color:#fff;
+}
+ul li{
+    list-style-type:none;
+}
+.man,.male{
+    color: green;
+}
+.woman,.female{
+    color:blueviolet;
+}
+#pagination-container{
+    color:black;
+}
+.highlight{
+    background-color: yellow;
+}
